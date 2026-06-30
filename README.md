@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0566-reshape-the-matrix](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0566-reshape-the-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0205-isomorphic-strings) |
+## Matrix
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0566-reshape-the-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
