@@ -55,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0908-smallest-range-i](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0908-smallest-range-i) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
