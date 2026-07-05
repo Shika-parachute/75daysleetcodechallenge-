@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0566-reshape-the-matrix](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0566-reshape-the-matrix) |
 | [0908-smallest-range-i](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0908-smallest-range-i) |
+| [1539-kth-missing-positive-number](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1539-kth-missing-positive-number](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
