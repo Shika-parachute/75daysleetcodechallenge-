@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0222-count-complete-tree-nodes) |
 ## Array
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0222-count-complete-tree-nodes) |
 | [1539-kth-missing-positive-number](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
@@ -61,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0182-duplicate-emails) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
