@@ -43,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0383-ransom-note) |
 ## Matrix
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0222-count-complete-tree-nodes) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
