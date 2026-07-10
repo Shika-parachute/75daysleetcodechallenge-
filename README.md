@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0566-reshape-the-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0908-smallest-range-i](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0908-smallest-range-i) |
+| [0910-smallest-range-ii](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0910-smallest-range-ii) |
 | [1539-kth-missing-positive-number](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0908-smallest-range-i](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0908-smallest-range-i) |
+| [0910-smallest-range-ii](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0910-smallest-range-ii) |
 ## Database
 |  |
 | ------- |
@@ -87,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0910-smallest-range-ii](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0910-smallest-range-ii) |
+## Sorting
+|  |
+| ------- |
+| [0910-smallest-range-ii](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0910-smallest-range-ii) |
 <!---LeetCode Topics End-->
