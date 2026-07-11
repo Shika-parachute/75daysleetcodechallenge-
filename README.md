@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0072-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0383-ransom-note) |
 ## Matrix
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0072-edit-distance) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Binary Indexed Tree
 |  |
