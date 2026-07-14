@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0908-smallest-range-i](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0910-smallest-range-ii) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1539-kth-missing-positive-number](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0908-smallest-range-i](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0910-smallest-range-ii) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Database
 |  |
 | ------- |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0910-smallest-range-ii](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0910-smallest-range-ii) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
