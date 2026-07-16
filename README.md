@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/0910-smallest-range-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1539-kth-missing-positive-number](https://github.com/Shika-parachute/75daysleetcodechallenge-/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
